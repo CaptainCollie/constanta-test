@@ -8,4 +8,4 @@ Check
 
 http://localhost:8000/results - all results
 
-http://localhost:8000/history/{event_result_id} - results for id\
+http://localhost:8000/history/{event_result_id} - results for id
